@@ -46,9 +46,8 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you�
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new repository [pallasite99/new-project](https://github.com/pallasite99/new-project)
-2. 💪 Opened a PR in [someuser/some-repo](https://github.com/someuser/some-repo)
-3. 🗣 Commented on [#123](https://github.com/anotheruser/another-repo/issues/123) in [anotheruser/another-repo](https://github.com/anotheruser/another-repo)
+1. Working on an IEEE paper
+2. Web3 and Blockchain internship
 <!--END_SECTION:activity-->
 
 ## License
