@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Hello there! 👋
 
 I'm **Salil Apte**, a tech enthusiast passionate about building innovative solutions and exploring Object-Oriented Programming (OOP) and its related paradigms.
 
