@@ -37,7 +37,7 @@ Here are some of my notable projects:
 - **GitHub:** [pallasite99](https://github.com/pallasite99)
 - **Twitter:** [@pallasite99](https://twitter.com/pallasite99)
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss technology!
+Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or discuss tech! 🚀  
 
 ## GitHub Stats
 
