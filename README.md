@@ -63,3 +63,4 @@ Feel free to explore my repositories, and donâ€™t hesitate to reach out if youâ€
 
 This profile and its content are licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
+![Thank You](https://via.placeholder.com/800x200?text=Thank+You+for+Visiting+My+Portfolio!)
