@@ -43,7 +43,7 @@ Feel free to explore my repositories, and donâ€™t hesitate to reach out if youâ€
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallasite99&show_icons=true&theme=radical)
 [![](https://raw.githubusercontent.com/pallasite99/pallasite99/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/pallasite99/pallasite99/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![]
+[![](https://raw.githubusercontent.com/pallasite99/pallasite99/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Recent Activity
 
