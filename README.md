@@ -61,6 +61,9 @@ Feel free to explore my repositories, and donâ€™t hesitate to reach out if youâ€
 3. Working on an open source project at Reality AI Labs
 <!--END_SECTION:activity-->
 
+click below to donate and support my work!  
+[![Ko-fi Support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/salilapte)
+
 ## License
 
 This profile and its content are licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
