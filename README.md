@@ -10,6 +10,8 @@ I'm **Salil Apte**, a tech enthusiast passionate about building innovative solut
 
 I have a deep interest in technology and programming, particularly in OOP. I'm always eager to learn new things and take on challenging projects.
 
+![Astronomy Animation](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
 ## Projects
 
 Here are some of my notable projects:
@@ -63,4 +65,4 @@ Feel free to explore my repositories, and donâ€™t hesitate to reach out if youâ€
 
 This profile and its content are licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-![Thank You](https://via.placeholder.com/800x200?text=Thank+You+for+Visiting+My+Portfolio!)
+
