@@ -48,6 +48,7 @@ Feel free to explore my repositories, and donâ€™t hesitate to reach out if youâ€
 <!--START_SECTION:activity-->
 1. Working on an IEEE paper
 2. Web3 and Blockchain internship
+3. Working on an open source project at Reality AI Labs
 <!--END_SECTION:activity-->
 
 ## License
