@@ -41,7 +41,7 @@ Here are some of my notable projects:
 
 📧 **Email:** salil.apte99@gmail.com  
 
-🌐 **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/salil-apte1112)
+🌐 **LinkedIn:** [linkedin.com/in/salil-apte1112](https://linkedin.com/in/salil-apte1112)
 
 🎥 **Portfolio Website:** [celestium.blog](https://celestium.blog/about)  
 
