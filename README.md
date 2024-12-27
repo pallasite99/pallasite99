@@ -64,13 +64,3 @@ Feel free to explore my repositories, and donâ€™t hesitate to reach out if youâ€
 ## License
 
 This profile and its content are licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('salilapte', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
