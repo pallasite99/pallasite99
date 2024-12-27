@@ -40,7 +40,9 @@ Here are some of my notable projects:
 ## 📬 Contact  
 
 📧 **Email:** salil.apte99@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/salil-apte1112) 
+
+🌐 **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/salil-apte1112)
+
 🎥 **Portfolio Website:** [celestium.blog](https://celestium.blog/about)  
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or discuss tech! 🚀  
