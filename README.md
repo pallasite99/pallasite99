@@ -10,7 +10,7 @@ I'm **Salil Apte**, a tech enthusiast passionate about building innovative solut
 
 I have a deep interest in technology and programming, particularly in OOP. I'm always eager to learn new things and take on challenging projects.
 
-![Astronomy Animation](https://github.com/user-attachments/assets/b17664a5-f326-40a5-8856-dea985ce4069)
+![https://github.com/user-attachments/assets/b17664a5-f326-40a5-8856-dea985ce4069](https://i.pinimg.com/originals/31/40/71/31407199990502880fbac9ee768064d0.gif)
 
 ## Projects
 
