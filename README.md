@@ -8,7 +8,7 @@ I'm **Salil Apte**, a tech enthusiast passionate about building innovative solut
 
 **May the Force Be With You on This Journey**  
 
-![Star Wars GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Star Wars GIF](https://media.giphy.com/media/qRhXEKCDQxfVu/giphy.gif)
 
 ## About Me
 
