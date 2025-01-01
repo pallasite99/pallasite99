@@ -6,6 +6,10 @@ I'm **Salil Apte**, a tech enthusiast passionate about building innovative solut
 - 🎓 Studying at Georgia State University
 - 🕒 Current local time: 11:57 PM (EST)
 
+**May the Force Be With You on This Journey**  
+
+![Star Wars GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+
 ## About Me
 
 I have a deep interest in technology and programming, particularly in OOP. I'm always eager to learn new things and take on challenging projects.
