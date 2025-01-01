@@ -64,6 +64,9 @@ Feel free to explore my repositories, and donâ€™t hesitate to reach out if youâ€
 click below to donate and support my work!  
 [![Ko-fi Support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/salilapte)
 
+## My Startup (nascent stage)
+[Celestium Technologies](https://celestium.blog)
+
 ## License
 
 This profile and its content are licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
