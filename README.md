@@ -14,7 +14,7 @@ I'm **Salil Apte**, a tech enthusiast passionate about building innovative solut
 
 I have a deep interest in technology and programming, particularly in OOP. I'm always eager to learn new things and take on challenging projects.
 
-[![https://github.com/user-attachments/assets/b17664a5-f326-40a5-8856-dea985ce4069](https://i.pinimg.com/originals/31/40/71/31407199990502880fbac9ee768064d0.gif)](https://th.bing.com/th/id/R.54acdb1729671c88514530883fb63156?rik=X1p%2b2d7vPIVwJQ&riu=http%3a%2f%2fbestanimations.com%2fSci-Fi%2fStarWars%2fstar-wars-animated-gif-39.gif&ehk=Ng4%2fL%2fHNR4BLGxFQlAqrSTWBFXeqwsKTqjicOxYWR%2bo%3d&risl=&pid=ImgRaw&r=0)
+![Star Wars Destroyer](https://i.pinimg.com/originals/31/6c/97/316c972212b9159647cb486500aca41f.gif)
 
 ## Projects
 
