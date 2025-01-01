@@ -4,7 +4,7 @@ I'm **Salil Apte**, a tech enthusiast passionate about building innovative solut
 
 - 🌍 Based in Atlanta
 - 🎓 Studying at Georgia State University
-- 🕒 Current local time: 11:57 PM (EST)
+- 🕒 Current local timezone: EST
 
 **May the Force Be With You on This Journey**  
 
