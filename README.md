@@ -60,7 +60,7 @@ Feel free to explore my repositories, and donâ€™t hesitate to reach out if youâ€
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallasite99&show_icons=true&theme=radical)
 
-## Recent Activity
+## Recent Work
 
 <!--START_SECTION:activity-->
 1. Working on an IEEE paper
