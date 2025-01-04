@@ -63,6 +63,8 @@ Feel free to explore my repositories, and donâ€™t hesitate to reach out if youâ€
 1. Working on an IEEE paper
 2. Web3 and Blockchain internship
 3. Working on an open source project at Reality AI Labs
+4. Automating UI / UX based wireframe generation
+5. Developing a custom GPT for Pediatrics for parents of younger children 
 <!--END_SECTION:activity-->
 
 click below to donate and support my work!  
