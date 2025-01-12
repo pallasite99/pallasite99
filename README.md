@@ -35,9 +35,9 @@ Here are some of my notable projects:
   A serverless framework example using AWS Lambda, DynamoDB, and Node.js.  
   [View Repository](https://github.com/pallasite99/auction-service)
 
-- **Data Mining at GSU**  
-  Implementations and studies related to data mining concepts at Georgia State University.  
-  [View Repository](https://github.com/pallasite99/Data-Mining-GSU)
+- **Truth Voice**  
+  A social justice platform to ensure every voice is heard.  
+  [View Repository](https://github.com/pallasite99/truth-voice)
 
 ## Skills
 
