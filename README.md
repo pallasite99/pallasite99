@@ -31,9 +31,9 @@ Here are some of my notable projects:
   An example implementation of gRPC bidirectional streaming calls using Go and Protobuf.  
   [View Repository](https://github.com/pallasite99/gRPC-bidirectional-streaming-go)
 
-- **Auction Service**  
-  A serverless framework example using AWS Lambda, DynamoDB, and Node.js.  
-  [View Repository](https://github.com/pallasite99/auction-service)
+- **AI versus Human text classifier**  
+  A ML classifier that accurately classifies Human and AI generated content.  
+  [View Repository](https://github.com/pallasite99/AI-comment-classifier)
 
 - **Truth Voice**  
   A social justice platform to ensure every voice is heard.  
