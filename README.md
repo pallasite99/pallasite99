@@ -14,10 +14,6 @@ I'm **Salil Apte**, a tech enthusiast passionate about building innovative solut
 
 I have a deep interest in technology and programming, particularly in OOP. I'm always eager to learn new things and take on challenging projects.
 
-## 💼 Where I Work as an Intern? 
-
-I am proud to be a part of **[YouLink.ai](https://youlink.ai)**, where we revolutionize how connections are built and stories are shared through cutting-edge AI-driven solutions. 🚀  
-
 ![Star Wars Destroyer](https://i.pinimg.com/originals/31/6c/97/316c972212b9159647cb486500aca41f.gif)
 
 <h3 align="left">Languages and Tools:</h3>
