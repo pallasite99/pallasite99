@@ -110,7 +110,7 @@ Building high-performance backend systems that operate at scale across cloud and
 
 ## 📬 Contact
 
-- LinkedIn: https://linkedin.com/in/salil-apte1112  
+- LinkedIn: https://linkedin.com/in/salil-apte  
 - GitHub: https://github.com/pallasite99  
 - Email: salil.apte99@gmail.com  
 
