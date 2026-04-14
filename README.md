@@ -1,81 +1,124 @@
-# Hello there, General Kenobi! 👋
+# Hey, I'm Salil Apte 👋
 
-I'm **Salil Apte**, a tech enthusiast passionate about building innovative solutions and exploring Object-Oriented Programming (OOP) and its related paradigms.
+Backend Software Engineer with 3+ years of experience building distributed systems, scalable APIs, and production-grade backend services across cloud and IoT platforms.
 
-- 🌍 Based in Atlanta
-- 🎓 Studying at Georgia State University
-- 🕒 Current local timezone: CET
+---
 
-**May the Force Be With You on This Journey**  
+## 🚀 About Me
 
-![Star Wars GIF](https://media.giphy.com/media/qRhXEKCDQxfVu/giphy.gif)
+- 🌍 Based in Pune, India  
+- 💼 Currently Software Engineer at Altizon Systems  
+- 🧠 Strong focus on backend systems, microservices, and system reliability  
+- ⚙️ Experience with real-time debugging, production incident handling, and scalable architecture  
+- 🚀 Previously worked across cloud infra, IoT, and full-stack systems  
 
-## About Me
+---
 
-I have a deep interest in technology and programming, particularly in OOP. I'm always eager to learn new things and take on challenging projects.
+## 🛠️ Tech Stack
 
-![Star Wars Destroyer](https://i.pinimg.com/originals/31/6c/97/316c972212b9159647cb486500aca41f.gif)
+### Languages
+- Python  
+- JavaScript  
+- SQL  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Backend & Architecture
+- Node.js  
+- Ruby  
+- REST APIs  
+- Microservices  
+- gRPC  
 
-## Projects
+### Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB  
 
-Here are some of my notable projects:
+### Tools & Infra
+- Docker  
+- AWS  
+- Linux  
 
-- **gRPC Bidirectional Streaming in Go**  
-  An example implementation of gRPC bidirectional streaming calls using Go and Protobuf.  
-  [View Repository](https://github.com/pallasite99/gRPC-bidirectional-streaming-go)
+---
 
-- **AI versus Human text classifier**  
-  A ML classifier that accurately classifies Human and AI generated content.  
-  [View Repository](https://github.com/pallasite99/AI-comment-classifier)
+## 💼 Experience
 
-- **Truth Voice**  
-  A social justice platform to ensure every voice is heard.  
-  [View Repository](https://github.com/pallasite99/truth-voice)
+### Altizon Systems — Software Engineer (Full Stack)  
+**Dec 2025 – Present | Pune**
+- Resolved 40+ monthly production incidents across distributed IoT systems serving 50+ clients  
+- Debugged REST APIs, backend services, and database queries in real-time environments  
+- Identified and fixed microservices bottlenecks, improving system reliability  
 
-## Skills
+### Georgia State University — Graduate Teaching Assistant  
+**2024 – 2025**
+- Assisted in teaching Data Structures, Algorithms, and System Design  
+- Mentored students in debugging and backend engineering concepts  
 
-- **Languages:** Go, JavaScript, Python
-- **Frameworks:** Node.js, Serverless Framework
-- **Tools:** AWS Lambda, DynamoDB, gRPC, Protobuf
+### Parallel Minds — Team Lead / Full Stack Developer  
+**2023**
+- Led a team of 9 engineers delivering full-stack applications  
+- Designed scalable backend APIs and handled production deployments  
 
-## Connect with Me
+### Infogen Labs — Software Engineer  
+**2022 – 2023**
+- Built backend services and REST APIs  
+- Optimized database queries, improving performance and response time  
 
-- **GitHub:** [pallasite99](https://github.com/pallasite99)
-- **Twitter:** [@pallasite99](https://twitter.com/pallasite99)
+### Platform9 Systems — Backend Developer  
+**2021 – 2022**
+- Developed backend components for cloud infrastructure systems  
+- Built and maintained APIs in microservices architecture  
 
-## 📬 Contact  
+---
 
-📧 **Email:** salil.apte99@gmail.com  
+## 📦 Projects
 
-🌐 **LinkedIn:** [linkedin.com/in/salil-apte1112](https://linkedin.com/in/salil-apte1112)
+### gRPC Bidirectional Streaming Service (Go)
+- Implemented concurrent bidirectional streaming using gRPC and Protobuf  
+- Focused on real-time communication and efficient message handling  
+- 🔗 https://github.com/pallasite99/gRPC-bidirectional-streaming-go  
 
-🎥 **Portfolio Website:** [celestium.blog](https://celestium.blog/about)  
+### AI vs Human Text Classifier
+- ML-based classifier to detect AI-generated vs human-written content  
+- 🔗 https://github.com/pallasite99/AI-comment-classifier  
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or discuss tech! 🚀  
+### Truth Voice
+- Social platform focused on amplifying voices for social justice  
+- 🔗 https://github.com/pallasite99/truth-voice  
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallasite99&show_icons=true&theme=radical)
+## 📈 Current Focus
 
-## Recent Work
+- Distributed systems & backend scaling  
+- Observability and production debugging  
+- System design and high-performance APIs  
+- Web3 and applied AI systems  
 
-<!--START_SECTION:activity-->
-1. Working on an IEEE paper
-2. Web3 and Blockchain internship
-3. Working on an open source project at Reality AI Labs
-4. Automating UI / UX based wireframe generation
-5. Developing a custom GPT for Pediatrics for parents of younger children 
-<!--END_SECTION:activity-->
+---
 
-click below to donate and support my work!  
-[![Ko-fi Support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/salilapte)
+## 📬 Connect with Me
 
-## My Startup (nascent stage)
-[Celestium Technologies](https://celestium.blog)
+- GitHub: https://github.com/pallasite99  
+- LinkedIn: https://linkedin.com/in/salil-apte  
+- Email: salil.apte99@gmail.com  
 
-## License
+---
 
-This profile and its content are licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+## 🧪 Recent Work
+
+- Published an IEEE paper  
+- Exploring Web3 and blockchain systems  
+- Contributing to backend-heavy projects  
+- Building AI-driven tools and systems  
+
+---
+
+## 🏗️ Startup
+
+- TBA
+
+---
+
+## 📄 License
+
+This profile is licensed under the MIT License.
