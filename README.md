@@ -7,7 +7,7 @@ Backend Software Engineer with 3+ years of experience building distributed syste
 ## 🚀 About Me
 
 - 🌍 Based in Pune, India  
-- 💼 Currently Software Engineer at Altizon Systems  
+- 💼 Former Software Engineer / Backend Engineer at Altizon Systems, Parallel Minds, Infogen Labs and Platform9 Systems  
 - 🧠 Strong focus on backend systems, microservices, and system reliability  
 - ⚙️ Experience with real-time debugging, production incident handling, and scalable architecture  
 - 🚀 Previously worked across cloud infra, IoT, and full-stack systems  
