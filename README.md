@@ -1,124 +1,121 @@
-# Hey, I'm Salil Apte 👋
+# Salil Apte 👋
 
-Backend Software Engineer with 3+ years of experience building distributed systems, scalable APIs, and production-grade backend services across cloud and IoT platforms.
+**Backend Software Engineer | Distributed Systems | Scalable APIs | Production Reliability**
+
+Building high-performance backend systems that operate at scale across cloud and IoT environments. Experienced in debugging complex distributed systems, optimizing performance, and improving reliability in production.
 
 ---
 
-## 🚀 About Me
+## ⚡ Key Highlights
 
-- 🌍 Based in Pune, India  
-- 💼 Former Software Engineer / Backend Engineer at Altizon Systems, Parallel Minds, Infogen Labs and Platform9 Systems  
-- 🧠 Strong focus on backend systems, microservices, and system reliability  
-- ⚙️ Experience with real-time debugging, production incident handling, and scalable architecture  
-- 🚀 Previously worked across cloud infra, IoT, and full-stack systems  
+- 🏗️ 3+ years of experience in backend engineering and distributed systems  
+- 🚨 Resolved **40+ production incidents/month** across multi-tenant IoT platforms (50+ clients)  
+- ⚙️ Improved system reliability by identifying and fixing microservice bottlenecks  
+- 🔍 Strong expertise in **real-time debugging**, **root cause analysis**, and **performance optimization**  
+- 👥 Led engineering team of 9 to deliver full-stack production systems  
+- ☁️ Experience across cloud infrastructure, microservices, and scalable APIs  
+
+---
+
+## 🧠 Core Expertise
+
+- Distributed Systems & Microservices  
+- Backend Architecture & API Design  
+- Production Debugging & Incident Response  
+- Performance Optimization  
+- Database Design & Query Optimization  
+- System Design  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python  
-- JavaScript  
-- SQL  
-
-### Backend & Architecture
-- Node.js  
-- Ruby  
-- REST APIs  
-- Microservices  
-- gRPC  
-
-### Databases
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-
-### Tools & Infra
-- Docker  
-- AWS  
-- Linux  
+**Languages:** Python, JavaScript, SQL  
+**Backend:** Node.js, Ruby, REST APIs, gRPC  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Infra & Tools:** Docker, AWS, Linux  
 
 ---
 
 ## 💼 Experience
 
-### Altizon Systems — Software Engineer (Full Stack)  
+### Altizon Systems — Software Engineer  
 **Dec 2025 – Present | Pune**
-- Resolved 40+ monthly production incidents across distributed IoT systems serving 50+ clients  
-- Debugged REST APIs, backend services, and database queries in real-time environments  
-- Identified and fixed microservices bottlenecks, improving system reliability  
+- Owned debugging and resolution of high-impact production issues across distributed IoT systems  
+- Resolved **40+ incidents/month**, improving uptime and platform stability  
+- Diagnosed issues across APIs, services, and databases in a real-time multi-service environment  
+- Improved system reliability by identifying architectural bottlenecks in microservices  
+
+---
 
 ### Georgia State University — Graduate Teaching Assistant  
 **2024 – 2025**
-- Assisted in teaching Data Structures, Algorithms, and System Design  
-- Mentored students in debugging and backend engineering concepts  
+- Taught Data Structures, Algorithms, and System Design concepts  
+- Mentored students in backend engineering and debugging techniques  
+
+---
 
 ### Parallel Minds — Team Lead / Full Stack Developer  
 **2023**
-- Led a team of 9 engineers delivering full-stack applications  
-- Designed scalable backend APIs and handled production deployments  
+- Led a team of 9 engineers to deliver production-grade applications  
+- Designed scalable backend systems and managed deployments  
+
+---
 
 ### Infogen Labs — Software Engineer  
 **2022 – 2023**
-- Built backend services and REST APIs  
-- Optimized database queries, improving performance and response time  
+- Built backend services and REST APIs for production systems  
+- Optimized database queries, significantly improving response times  
+
+---
 
 ### Platform9 Systems — Backend Developer  
 **2021 – 2022**
 - Developed backend components for cloud infrastructure systems  
-- Built and maintained APIs in microservices architecture  
+- Built APIs within a microservices architecture  
 
 ---
 
-## 📦 Projects
+## 📦 Selected Projects
 
 ### gRPC Bidirectional Streaming Service (Go)
-- Implemented concurrent bidirectional streaming using gRPC and Protobuf  
-- Focused on real-time communication and efficient message handling  
+- Designed concurrent bidirectional communication system using gRPC  
+- Focused on efficient message handling and real-time processing  
 - 🔗 https://github.com/pallasite99/gRPC-bidirectional-streaming-go  
 
+---
+
 ### AI vs Human Text Classifier
-- ML-based classifier to detect AI-generated vs human-written content  
+- Built ML model to classify AI vs human-generated content  
+- Applied NLP techniques for classification accuracy  
 - 🔗 https://github.com/pallasite99/AI-comment-classifier  
 
+---
+
 ### Truth Voice
-- Social platform focused on amplifying voices for social justice  
+- Built a platform to enable open expression and amplify voices  
+- Designed backend systems for scalability and content handling  
 - 🔗 https://github.com/pallasite99/truth-voice  
 
 ---
 
-## 📈 Current Focus
+## 🚀 What I’m Focused On
 
-- Distributed systems & backend scaling  
-- Observability and production debugging  
-- System design and high-performance APIs  
-- Web3 and applied AI systems  
+- Designing **high-scale distributed systems**  
+- Improving **observability and system reliability**  
+- Solving **complex backend performance problems**  
+- Exploring **AI + backend system integrations**  
 
 ---
 
-## 📬 Connect with Me
+## 📬 Contact
 
+- LinkedIn: https://linkedin.com/in/salil-apte1112  
 - GitHub: https://github.com/pallasite99  
-- LinkedIn: https://linkedin.com/in/salil-apte  
 - Email: salil.apte99@gmail.com  
 
 ---
 
-## 🧪 Recent Work
+## 📊 GitHub Stats
 
-- Published an IEEE paper  
-- Exploring Web3 and blockchain systems  
-- Contributing to backend-heavy projects  
-- Building AI-driven tools and systems  
-
----
-
-## 🏗️ Startup
-
-- TBA
-
----
-
-## 📄 License
-
-This profile is licensed under the MIT License.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallasite99&show_icons=true&theme=radical)
