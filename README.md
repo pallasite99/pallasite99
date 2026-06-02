@@ -40,7 +40,7 @@ Building high-performance backend systems that operate at scale across cloud and
 ## 💼 Experience
 
 ### Altizon Systems — Software Engineer  
-**Dec 2025 – Present | Pune**
+**Dec 2025 – April 2026 | Pune**
 - Owned debugging and resolution of high-impact production issues across distributed IoT systems  
 - Resolved **40+ incidents/month**, improving uptime and platform stability  
 - Diagnosed issues across APIs, services, and databases in a real-time multi-service environment  
