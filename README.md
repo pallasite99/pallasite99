@@ -1,121 +1,279 @@
-# Salil Apte 👋
+# 👋 Hi, I'm Salil Apte
 
-**Backend Software Engineer | Distributed Systems | Scalable APIs | Production Reliability**
+### Agentic AI Engineer | AI Systems Architect | Backend & Cloud Engineer
 
-Building high-performance backend systems that operate at scale across cloud and IoT environments. Experienced in debugging complex distributed systems, optimizing performance, and improving reliability in production.
+Building autonomous AI systems that can reason, plan, act, and integrate with real-world tools.
+
+I specialize in designing **Agentic AI platforms**, **AI-powered security solutions**, and **scalable backend infrastructure** that bridge the gap between large language models and production-grade software systems.
 
 ---
 
-## ⚡ Key Highlights
+## 🚀 About Me
 
-- 🏗️ 3+ years of experience in backend engineering and distributed systems  
-- 🚨 Resolved **40+ production incidents/month** across multi-tenant IoT platforms (50+ clients)  
-- ⚙️ Improved system reliability by identifying and fixing microservice bottlenecks  
-- 🔍 Strong expertise in **real-time debugging**, **root cause analysis**, and **performance optimization**  
-- 👥 Led engineering team of 9 to deliver full-stack production systems  
-- ☁️ Experience across cloud infrastructure, microservices, and scalable APIs  
+I'm passionate about building systems where AI goes beyond simple chat interfaces and becomes an active participant in solving real-world problems.
+
+My work focuses on:
+
+* 🤖 Multi-Agent AI Systems
+* 🧠 LLM Application Architecture
+* 🔒 AI Security & Compliance Automation
+* ⚡ Backend Systems for AI Products
+* ☁️ Cloud-Native AI Infrastructure
+* 🔄 Agent Orchestration & Tool Use
+* 📊 AI Observability & Evaluation
+
+Currently building products at the intersection of:
+
+* Agentic AI
+* Cybersecurity
+* Cloud Infrastructure
+* Developer Productivity
+
+---
+
+## 🎯 What I'm Building
+
+### SentinelIQ
+
+AI-powered security audit agent designed to automate compliance and security assessments.
+
+**Core Capabilities**
+
+* Automated security audits
+* Compliance evidence collection
+* SOC 2 readiness analysis
+* Cloud security posture evaluation
+* AI-assisted risk assessment
+* Continuous monitoring workflows
+
+---
+
+### Panipat 1761: Shattered Dreams
+
+Historical strategy game exploring one of the most significant battles in Indian history.
+
+Built using:
+
+* Godot Engine
+* AI-assisted workflows
+* Procedural systems
+* Narrative-driven gameplay
 
 ---
 
 ## 🧠 Core Expertise
 
-- Distributed Systems & Microservices  
-- Backend Architecture & API Design  
-- Production Debugging & Incident Response  
-- Performance Optimization  
-- Database Design & Query Optimization  
-- System Design  
+### Agentic AI
+
+* Multi-Agent Architectures
+* Tool Calling Systems
+* Retrieval-Augmented Generation (RAG)
+* Model Context Protocol (MCP)
+* Agent Orchestration
+* AI Workflows
+* Memory Systems
+* Autonomous Decision Making
+
+### AI Engineering
+
+* Large Language Models
+* Prompt Engineering
+* AI Evaluation Frameworks
+* Fine-Tuning Concepts
+* Vector Databases
+* Semantic Search
+* Embeddings
+* AI Safety & Guardrails
+
+### Backend Engineering
+
+* Distributed Systems
+* Microservices
+* API Design
+* Event-Driven Architecture
+* Performance Optimization
+* Production Reliability
+* Observability
+* Database Design
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* Linux
+* CI/CD
+* Infrastructure Automation
+* Monitoring & Alerting
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-**Languages:** Python, JavaScript, SQL  
-**Backend:** Node.js, Ruby, REST APIs, gRPC  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Infra & Tools:** Docker, AWS, Linux  
+### AI
 
----
+```text
+OpenAI • Claude • Gemini • Amazon Nova
+LangChain • LangGraph • MCP
+RAG • Vector Search • Prompt Engineering
+```
 
-## 💼 Experience
+### Languages
 
-### Altizon Systems — Software Engineer  
-**Dec 2025 – April 2026 | Pune**
-- Owned debugging and resolution of high-impact production issues across distributed IoT systems  
-- Resolved **40+ incidents/month**, improving uptime and platform stability  
-- Diagnosed issues across APIs, services, and databases in a real-time multi-service environment  
-- Improved system reliability by identifying architectural bottlenecks in microservices  
+```text
+Python • JavaScript • SQL • Go
+```
 
----
+### Backend
 
-### Georgia State University — Graduate Teaching Assistant  
-**2024 – 2025**
-- Taught Data Structures, Algorithms, and System Design concepts  
-- Mentored students in backend engineering and debugging techniques  
+```text
+Node.js • REST APIs • gRPC
+Microservices • Distributed Systems
+```
 
----
+### Infrastructure
 
-### Parallel Minds — Team Lead / Full Stack Developer  
-**2023**
-- Led a team of 9 engineers to deliver production-grade applications  
-- Designed scalable backend systems and managed deployments  
+```text
+AWS • Docker • Linux
+GitHub Actions • CI/CD
+```
 
----
+### Databases
 
-### Infogen Labs — Software Engineer  
-**2022 – 2023**
-- Built backend services and REST APIs for production systems  
-- Optimized database queries, significantly improving response times  
+```text
+PostgreSQL • MySQL • MongoDB
+Vector Databases
+```
 
 ---
 
-### Platform9 Systems — Backend Developer  
-**2021 – 2022**
-- Developed backend components for cloud infrastructure systems  
-- Built APIs within a microservices architecture  
+## 🔬 Areas of Interest
+
+### Agentic AI Systems
+
+Building AI that can:
+
+* Plan tasks
+* Use tools
+* Execute workflows
+* Learn from context
+* Collaborate with other agents
+* Operate autonomously
+
+### AI Security
+
+Exploring:
+
+* Secure AI architectures
+* LLM threat modeling
+* Prompt injection defenses
+* AI governance
+* Compliance automation
+
+### AI Infrastructure
+
+Interested in:
+
+* Model serving
+* Agent orchestration
+* AI observability
+* Context engineering
+* Scalable inference systems
 
 ---
 
-## 📦 Selected Projects
+## 📈 Current Focus
 
-### gRPC Bidirectional Streaming Service (Go)
-- Designed concurrent bidirectional communication system using gRPC  
-- Focused on efficient message handling and real-time processing  
-- 🔗 https://github.com/pallasite99/gRPC-bidirectional-streaming-go  
+* Building production-ready AI agents
+* Developing AI security products
+* Experimenting with multi-agent workflows
+* Exploring MCP ecosystems
+* Creating autonomous business workflows
+* Researching next-generation AI architectures
+
+---
+
+## 🌱 Learning Journey
+
+Currently studying:
+
+* Advanced Agentic AI Patterns
+* AWS AI Practitioner
+* AI Security Engineering
+* Distributed AI Systems
+* LLMOps
+* Cloud-Native AI Infrastructure
+
+---
+
+## 📂 Featured Projects
+
+### SentinelIQ
+
+AI Security Audit Agent
+
+```text
+Agentic AI + Security Compliance + Cloud Assessment
+```
 
 ---
 
 ### AI vs Human Text Classifier
-- Built ML model to classify AI vs human-generated content  
-- Applied NLP techniques for classification accuracy  
-- 🔗 https://github.com/pallasite99/AI-comment-classifier  
+
+Machine learning system for detecting AI-generated content.
+
+```text
+NLP • TF-IDF • Classification Models
+```
+
+GitHub:
+https://github.com/pallasite99/AI-comment-classifier
 
 ---
 
-### Truth Voice
-- Built a platform to enable open expression and amplify voices  
-- Designed backend systems for scalability and content handling  
-- 🔗 https://github.com/pallasite99/truth-voice  
+### gRPC Bidirectional Streaming Service
+
+Production-focused distributed systems project.
+
+```text
+Go • gRPC • Concurrency • Real-Time Communication
+```
+
+GitHub:
+https://github.com/pallasite99/gRPC-bidirectional-streaming-go
 
 ---
 
-## 🚀 What I’m Focused On
+## ✍️ Engineering Philosophy
 
-- Designing **high-scale distributed systems**  
-- Improving **observability and system reliability**  
-- Solving **complex backend performance problems**  
-- Exploring **AI + backend system integrations**  
-
----
-
-## 📬 Contact
-
-- LinkedIn: https://linkedin.com/in/salil-apte  
-- GitHub: https://github.com/pallasite99  
-- Email: salil.apte99@gmail.com  
+> Software automation transformed workflows.
+>
+> Agentic AI will transform decision-making.
+>
+> The future belongs to systems that can reason, act, and continuously improve.
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallasite99&show_icons=true&theme=radical)
+### LinkedIn
+
+https://linkedin.com/in/salil-apte
+
+### GitHub
+
+https://github.com/pallasite99
+
+### Email
+
+[salil.apte99@gmail.com](mailto:salil.apte99@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I'm fascinated by two seemingly unrelated fields:
+
+* Agentic AI Systems
+* Maratha History
+
+Both involve strategy, coordination, adaptation, and decision-making under uncertainty.
